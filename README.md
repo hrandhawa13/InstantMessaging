@@ -1,4 +1,5 @@
 # InstantMessaging
+# Java, networking, Object oriented Programming, multi thread server client, threads, exceptional handling, javax.swing
 This is a 2 phase project that I built for practising networking in Java
 Description of Project:
 This project allows to send messages to a server and also receives from server
